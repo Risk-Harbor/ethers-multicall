@@ -1,6 +1,6 @@
 {
-  "name": "ethers-multicall",
-  "version": "0.2.3",
+  "name": "rh-ethers-multicall",
+  "version": "0.2.4",
   "description": "Make multiple Ethereum network requests in a single HTTP query. ethcall for ethers v5.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -14,7 +14,7 @@
     "ethers",
     "multicall"
   ],
-  "author": "Cavan Flynn <cavan.m.flynn@gmail.com>",
+  "author": "dewpey <drew@riskharbor.com>",
   "license": "MIT",
   "devDependencies": {
     "@ts-tools/node": "^0.8.3",
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cavanmflynn/ethers-multicall.git"
+    "url": "git+https://github.com/risk-harbor/rh-ethers-multicall.git"
   },
   "bugs": {
     "url": "https://github.com/cavanmflynn/ethers-multicall/issues"
